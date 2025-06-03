@@ -19,7 +19,7 @@ The script rides through a range of years (a couple before and after your input 
 Zeller's Congruence does its magic by adjusting and calculating the right day numbers. In the end, you’ll know if you were born on a Monday, Tuesday, or any other day.
 4. Final Drop: \
 It spits out your validated birth date along with the leap year deets and the day-of-the-week result. Boom!
-## How to run
+## How to run 🏃‍♂️
 1. Open Visual Studio Code:\
 Launch VS Code on your computer.
 2. Create a New Python File:\
